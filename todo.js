@@ -1,3 +1,4 @@
+let a=10;
 const inputbox=document.getElementById("inputbox")
 const list=document.getElementById("list")
 function add(){
